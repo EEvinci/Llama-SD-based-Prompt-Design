@@ -1,0 +1,23 @@
+{
+    "input": "产品名称",
+    "output": {
+        "results": [
+            {
+                "title": "产品1的标题",
+                "category": "产品1的目标群体",
+                "introduction": "产品1的介绍"
+            },
+            {
+                "title": "产品2的标题",
+                "category": "产品2的目标群体",
+                "introduction": "产品2的介绍"
+            },
+            {
+                "title": "产品3的标题",
+                "category": "产品3的目标群体",
+                "introduction": "产品3的介绍"
+            }
+        ]
+    }
+}
+
