@@ -1,4 +1,4 @@
-# 设计文稿Prompt设计
+# 设计文稿Prompt
 
 ## Prompt_无产品名称字段输入
 

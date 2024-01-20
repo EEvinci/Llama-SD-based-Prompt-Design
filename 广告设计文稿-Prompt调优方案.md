@@ -164,10 +164,6 @@ Create an image of a top view of an open green box filled with leaves, presentin
 
 
 
-
-
-
-
 Create an image showcasing a package of pistachios on a dual-tone background. The package has a vibrant green color with the words "Happy Pistachios" and "A Calcium Source" prominently displayed. There should be a cheerful character illustration to represent the brand, along with the phrase "Nutritional Snacks" and possibly a brand or product line name. Scattered around the package are open and closed pistachio nuts, some still in their shells, others shelled. Include leaves and a small bowl with pistachios to suggest naturalness and healthiness. The overall composition should convey a cheerful and healthy snack option.
 
 > 在双色调背景上创建一张展示开心果包装的图片。包装呈鲜艳的绿色，醒目地展示着“开心果快乐”和“钙源”字样。应该有一个欢快的人物插图来代表品牌，以及短语“营养零食”以及可能的品牌或产品线名称。包装上散落着打开和关闭的开心果，有些还在壳里，有些则去壳了。包括叶子和一个装有开心果的小碗，以表示自然和健康。整体构图应传达出一种欢快健康的零食选择。

@@ -79,7 +79,7 @@ Please note:
 }
 ```
 
-## Prompt命令语句
+## 【Old】Prompt命令语句
 
 以上述Json格式为例，请对我给出的产品进行进行创意与受众设计
 产品名称: **巧克力奶茶**
@@ -99,42 +99,7 @@ Please note:
 2. Category represents the group of people who use the product. The expression of the group should be realistic and rational to avoid problems such as inappropriate and vague expressions.
 3. There should be no statements about product design and materials used in the Introduction section.
 
-## new Prompt design
-
-中文：
-
-```prompt
-你是一位广告创意设计专家，请你针对用户提出的产品对该款产品的广告设计主题、目标受众并给出创意思路。设计需要满足以下要求：
-1、广告设计主题应具有鲜明的生活特点
-2、目标受众应该细化到具体的人群
-3、创意思路聚焦于画面风格设计建议
-
-示例如下：
-    输入：草莓果汁宣传效果图
-    输出：
-    {
-        "Themes": [
-            {
-                "Theme": "$", 
-                "Target": "$",
-                "Creative_ideas": "$"
-            }
-        ]	
-    }
-我以$符号来表示你需要进行填充的内容，内容整体以json格式输出！！
-
-用户提出的产品是：西瓜汁饮料宣传图
-请根据用户输入产品进行3个创意设计
-```
-
-设计主题
-
-- 并包含广告的画面细节描述
-- 设计主题的创意思路给出直接的设计方案，对于广告的画面细节描述尽可能使用建议性文字
-
-
-
-英文：
+## 【new】 Prompt 
 
 ```prompt
 You are an advertising creative design expert. Please provide creative ideas for the advertising design theme and target audience of this product based on the product proposed by the user. The design needs to meet the following requirements:
