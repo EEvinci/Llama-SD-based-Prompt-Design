@@ -45,7 +45,7 @@ Design_concept:突出芒果的营养价值，如维生素C、维生素B等，并
 2.内容对应：Prompt中的每个元素都应与您先前创造的画面内容保持一致和对应。这意味着Prompt应详细反映画面的每个关键特征，如颜色、对象、氛围、光线等。
 
 您需要根据以下###中的JSON格式输出：
-
+###
 {
 "prompt": "Cosmetics products commercial advertising，merging in water surround by spring flowers on the moon light，Morandi Tones，clear background，Geometric elements，85mm shot，Interior lighting，octane render，high resolution"
 }
